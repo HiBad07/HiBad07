@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @HiBad07
+- 👀 I’m interested in Computer Science and Development
+- 🌱 I’m currently learning Python, HTML, CSS and JavaScript
