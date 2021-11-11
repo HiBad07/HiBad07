@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm James (HiBad07)</h1>
 <h3 align="center">A Computer Science Student</h3>
 
-<p align="center"><a href="https://discord.com/users/150729679962243075"><img align="center" src="https://lanyard-profile-readme.vercel.app/api/150729679962243075"></a></p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=reportcardsmc&label=Profile%20views&color=0e75b6&style=flat-square" alt="reportcardsmc" /> </p>
-
-<p align="left"> <a href="https://twitter.com/reportcardsmc" target="blank"><img src="https://img.shields.io/twitter/follow/reportcardsmc?logo=twitter&style=for-the-badge" alt="reportcardsmc" /></a> </p>
+<p align="center"><a href="https://discord.com/users/521004225631748110"><img align="center" src="https://lanyard-profile-readme.vercel.app/api/521004225631748110"></a></p>
 
 - 🔭 I’m currently working on [Drill](https://discord.io/drill)
 
